@@ -1,0 +1,18 @@
+.circles-cal {
+    z-index: -1;
+    object-position: center top; 
+    margin-top: -0px;
+    position: absolute;
+    transform: scaleX(-1); 
+    display: block;
+    right: 0;
+}
+
+.calendar-position {
+    position: absolute;
+    z-index: 1; 
+}
+
+.my-cal-container {
+    position: relative;
+}
